@@ -25,7 +25,10 @@ Skills Learnt:
 
 -- 1. What is the total amount each customer spent at the restaurant?
 
-
+select s.customer_id, sum(price) as "Total Amount" from dannys_diner.menu as m
+inner join dannys_diner.sales as s
+on m.product_id = s.product_id
+group by s.customer_id
 
 
 
