@@ -13,3 +13,5 @@ Skills Learnt:
 7. Using joins (Like inner, left etc)
 8. Windows functions (OVER, PARTITION BY clause, ROW_NUMBER, RANK).
 9. Grasping the significance of Primary and Foreign Keys
+
+
