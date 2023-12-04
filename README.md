@@ -17,7 +17,17 @@ Skills Learnt:
 
 
 
----------------Create database and tables------------------------
+
+
+
+
+
+
+
+---------------CREATE DATABASE AND TABLES------------------------
+
+
+
 
 
 CREATE SCHEMA dannys_diner;
